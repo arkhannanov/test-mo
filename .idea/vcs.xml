@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/damp-brook-24420" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/limitless-sands-35358" vcs="Git" />
   </component>
 </project>
