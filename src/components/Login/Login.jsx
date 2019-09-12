@@ -17,7 +17,6 @@ const validate = values => {
 
 const renderField = ({ input, label, type, meta: { touched, error, warning } }) => (
   <div>
-    <label className="control-label">{label}</label>
     <div>
       <input {...input} placeholder={label} type={type} className="login__form-control" />
       {touched && ((error && <span className="login__form-text-danger">{error}</span>) || (warning && <span>{warning}</span>))}
@@ -31,13 +30,13 @@ const LoginForm = ({handleSubmit, error, pristine, submitting, isLoading}) => {
       <Field
         name="email"
         component={renderField}
-        placeholder='E-mail'
+        label='E-mail'
         className='login__form-input'
       />
       <Field
         name="password"
         component={renderField}
-        placeholder='Password'
+        label='Password'
         className='login__form-input'
         type='password'
       />
