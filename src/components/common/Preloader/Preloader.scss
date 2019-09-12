@@ -1,0 +1,29 @@
+.preloader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 4rem;
+
+  &__svg {
+    width: 10.167rem;
+    height: 10.167rem;
+    animation:1s svg infinite linear;
+  }
+
+  &__content {
+    color: #84CCFF;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+
+
+  @keyframes svg {
+    from {
+      transform: rotate(0)
+    }
+    to {
+      transform: rotate(360deg)
+    }
+  }
+}

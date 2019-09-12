@@ -1,0 +1,11 @@
+.news {
+  padding: 1.5rem;
+
+  &__item {
+    margin-top: 1.5rem;
+
+    &-title {
+      font-weight: bold;
+    }
+  }
+}

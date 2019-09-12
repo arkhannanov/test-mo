@@ -1,0 +1,19 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.5rem;
+
+  &__city {
+    margin-top: 2rem;
+  }
+
+  &__languages {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.5rem;
+  }
+
+  &__social-icon {
+    margin-top: 1rem;
+  }
+}
