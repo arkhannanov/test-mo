@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de0e3754-92bb-455d-a690-cbab8d410387" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Login/Login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Login/Login.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/News/News.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/News/News.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/News/NewsContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Preloader/Preloader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Preloader/Preloader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/auth-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/news-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/profile-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/redux-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -102,25 +81,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/redux/redux-store.js">
+        <entry file="file://$PROJECT_DIR$/src/components/News/NewsContainer.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="41">
+              <caret line="12" selection-start-line="12" selection-end-line="13" />
               <folding>
-                <element signature="e#0#77#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/News/NewsContainer.jsx">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -195,6 +171,7 @@
         <option value="$PROJECT_DIR$/src/redux/news-reducer.js" />
         <option value="$PROJECT_DIR$/src/redux/profile-reducer.js" />
         <option value="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -323,6 +300,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-way-of-samurai-master" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -361,16 +339,15 @@
       <option name="presentableId" value="Default" />
       <updated>1568194138093</updated>
       <workItem from="1568194139607" duration="5583000" />
-      <workItem from="1568266687749" duration="33236000" />
+      <workItem from="1568266687749" duration="34029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38819000" />
+    <option name="totallyTimeSpent" value="39612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11064278" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -595,11 +572,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/News/NewsContainer.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="41">
+          <caret line="12" selection-start-line="12" selection-end-line="13" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
